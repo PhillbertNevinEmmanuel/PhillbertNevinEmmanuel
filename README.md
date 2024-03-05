@@ -1,5 +1,6 @@
 ### I'm still tinkering and figuring things out, but things usually go my way. 
-### Hi! I'm Phillbert Nevin Emmanuel, a data enthusiast
+# Hi! I'm Phillbert Nevin Emmanuel, a data enthusiast
+
 
 I love working with data, databases and visualization tools. I'm Familiar with most analytical tools such as:
 * Python and its Data Analytics libraries such as Pandas, Numpy, Matplotlib, and Seaborn
