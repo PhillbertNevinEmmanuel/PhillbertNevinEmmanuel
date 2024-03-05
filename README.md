@@ -7,6 +7,8 @@ I love working with data, databases and visualization tools. I'm Familiar with m
 * Non-Relational Databases such as MongoDB
 * Data Visualization Tools: Power BI, Tableau and Looker
 
+
+
 I'm currently focusing on my Data Cleaning and Validation skills with Python Pandas and Data Engineering tools Tensorflow and Spark
 
 <!--
