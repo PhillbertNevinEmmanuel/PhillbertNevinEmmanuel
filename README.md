@@ -10,7 +10,7 @@ I love working with data, databases and visualization tools. I'm Familiar with m
 
 
 
-I'm currently focusing on my Data Cleaning and Validation skills with Python Pandas and Data Engineering tools Tensorflow and Spark
+I'm currently focusing on Data Analysis Tools, Creating Web Apps using Flasks and Data Engineering tools Tensorflow and Spark.
 
 <!--
 **PhillbertNevinEmmanuel/PhillbertNevinEmmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
