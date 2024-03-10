@@ -3,7 +3,7 @@
 
 
 I love working with data, databases and visualization tools. I'm Familiar with most analytical tools such as:
-* Python and its Data Analytics libraries: Pandas, Numpy, Matplotlib, and Seaborn
+* Python and its Data Analytics libraries: Pandas, Numpy, Matplotlib, Seaborn, and Plotly Express
 * Relational Databases: PostgreSQL, MySQL and Microsoft SQL
 * Non-Relational Databases: MongoDB, MariaDB
 * BI Tools: Power BI, Tableau and Looker
