@@ -1,20 +1,23 @@
-# Hi, I'm Phillbert Nevin Emmanuel!
+Hi, I'm Phillbert! I’m a passionate Information Systems graduate (Magna Cum Laude, GPA 3.71) with hands-on experience in data analysis, business intelligence, and full-stack web development.
 
-Welcome to my data-driven world! I'm passionate about diving deep into data, building databases, and crafting compelling visualizations. Here's a glimpse into my toolbox:
+💼 Currently contributing to data-driven solutions using:
 
-### Data Analysis Wizardry
-I wield Python with finesse, leveraging powerful libraries like Pandas, Numpy, Matplotlib, Seaborn, and Plotly Express to uncover insights and tell stories with data.
+    Languages & Frameworks: C#, ASP.NET Core (API, MVC, Blazor Server), Python, LINQ
 
-### Web Apps Maestro
-I thrive in the realm of web applications, using Flask to bring data-driven experiences to life, creating seamless interfaces that empower users to interact with complex data effortlessly.
+    BI & Data Tools: SQL Server, Qlik Sense, Power BI, Tableau
 
-### Database Dynamo
-Whether it's the structured world of relational databases like PostgreSQL, MySQL, and Microsoft SQL, or the flexible landscapes of non-relational databases such as MongoDB and MariaDB, I'm at home optimizing data storage and retrieval.
+    ETL & Integration: REST APIs, QVD pipelines, automation scripts
 
-### Business Intelligence Savvy
-I harness the power of BI tools like Power BI, Tableau, and Looker Studio to transform data into actionable insights, unlocking strategic decisions and driving business growth.
+    Others: Docker Compose, ClosedXML, Outsystems, Microsoft Excel Advanced
 
-### Data Engineering Explorer
-I'm delving into the realms of data engineering, mastering tools like TensorFlow and Spark to build robust pipelines, model data effectively, and unleash the potential of machine learning.
+📊 I’ve built dashboards, APIs, and analytical systems that improve decision-making and operational efficiency—handling over 1M+ data rows daily and optimizing workflows across tech and business teams.
 
-Let's connect and explore the endless possibilities that data holds together!
+🔍 I’m interested in:
+
+    Data visualization
+
+    Scalable backend systems
+
+    Process automation
+
+    Clean, maintainable code
